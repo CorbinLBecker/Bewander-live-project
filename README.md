@@ -1,5 +1,5 @@
 # Bewander-live-project
-Worked on a Live website. Here are most of my code I contributed
+Worked on a Live website. Here is most of my code I contributed
 
 
 SMALLER CHANGES FOLDER
